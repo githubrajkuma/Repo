@@ -16,7 +16,7 @@ public class Array2 {
 		
 		System.out.println(a[1]);//Ram
 		System.out.println(b[5]);//6
-		System.out.println(c[4]);//Arjun
+		
 		
 	}
 
