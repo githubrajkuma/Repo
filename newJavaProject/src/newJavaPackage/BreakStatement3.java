@@ -15,7 +15,7 @@ public class BreakStatement3 {
 			i++ ;
 		}
 		System.out.println("control came out from loop");
-		System.out.println("Add new code");
+		
 	}
 	
 
